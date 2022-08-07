@@ -41,9 +41,9 @@ sed -i -e "s/^indexer *=.*/indexer = \"kv\"/" $HOME/.gaia/config/config.toml
 ## Set up variables
 All settings below are just example for IBC Relayer between `STRIDE-TESTNET-2` and `GAIA` testnets. Please fill with your own values.
 ```
-RELAYER_ID='kjnodes#8455'            # add your Discord username here
-STRIDE_RPC_ADDR='127.0.0.1:16657'    # Use your own RPC enpoint here
-GAIA_RPC_ADDR='127.0.0.1:23657'      # Use your own RPC enpoint here
+RELAYER_ID='kjnodes#8455'            # use your Discord username here
+STRIDE_RPC_ADDR='127.0.0.1:16657'    # use your own Stride RPC enpoint here
+GAIA_RPC_ADDR='127.0.0.1:23657'      # use your own Gaia RPC enpoint here
 ```
 
 ## Update system
