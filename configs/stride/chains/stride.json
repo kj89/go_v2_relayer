@@ -3,7 +3,7 @@
   "value": {
     "key": "wallet",
     "chain-id": "STRIDE-TESTNET-2",
-    "rpc-addr": "http://127.0.0.1:16657",
+    "rpc-addr": "https://stride-testnet.rpc.kjnodes.com",
     "account-prefix": "stride",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
