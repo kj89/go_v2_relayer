@@ -255,7 +255,7 @@ Examples:
 
 ![image](https://user-images.githubusercontent.com/50621007/183282782-4f6471d1-b4d8-4738-8356-0d26006cdc92.png)
 
-2.3. Fill up the [submission form](https://forms.gle/urhJDEkqfMM9h1367) with your transaction links and link to your forked repository
+2.3. Fill up the [submission form](https://forms.gle/urhJDEkqfMM9h1367) with links to your relayer transactions and link to your forked repository
 
 # Usefull commands
 
